@@ -1,0 +1,24 @@
+:root{
+    --f100:'Montserrat-Thin';
+    --f300:'Montserrat-Light';
+    --f400:'Montserrat-Regular';
+    --f700:'Montserrat-Bold';
+    --f900:'Montserrat-Black';
+    --f300:'Montserrat-Light';
+    --f500:'Montserrat-Medium';
+
+
+    --dark-green:#007d2f;
+    --gray:#9d9d9d;
+    --gray-light:#f8f9f9;
+}
+*,ul,li,a,p,textarea{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    resize: none;
+}
+a:hover{
+    text-decoration: none;
+    color: inherit;
+}

@@ -1,0 +1,167 @@
+@media(max-width:1200px){
+    
+    .statistic{
+        width: 500px;
+    }
+    video{
+        width: 700px;
+    }
+    iframe{
+        width: 800px;
+    }
+}
+@media(max-width:992px){
+    .navbar-collapse{
+        width: 450px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+    .skills img{
+        position: static;
+        width: 500px;
+    }
+    .statistic{
+        margin: 0 auto;
+    }
+    video{
+        width: 600px;
+    }
+    .service h3{
+        padding-bottom: 26px;
+        color: black;
+        font-size: 24px;
+    }
+    iframe{
+        width: 700px;
+    }
+
+    
+   
+    
+}
+
+@media(max-width:767px){
+    video{
+        width: 400px;
+    }
+   
+    .header__content p{
+        padding-bottom: 0px;
+       }
+       .header__content{
+        padding-top: 10px;
+        padding-left: 60px;
+        flex-grow: 1;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .navbar-collapse{
+        width: 400px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }   
+    .header__content{
+        margin-top: 10px;
+        text-align: center;
+    }
+    .header__nav i{
+        color: white;
+        transition: 700ms;
+        padding-right: 100px;
+    }
+    .navbar-toggler{
+        background: black;
+    }
+    .menu{
+        color: white;
+        font-weight: 600;
+        
+    }
+    .header__nav i:hover{
+        color: white;
+      
+    }
+    .service h3{
+        padding-bottom: 26px;
+        color: black;
+        font-size: 16px;
+    }
+    .logo{
+        margin-bottom: 7px;
+    }
+    .footer-links{
+        padding-top: 10px;
+    } 
+    iframe{
+        width: 480px;
+    }  
+    .contact-info-desc{
+        text-align: center;
+    }
+    
+}
+@media(max-width:567px){
+    .logo{
+        border: 1px solid darkgray;
+        box-shadow: 0 0 10px black;
+        margin: 0 auto;
+        margin-bottom: 7px;
+    }
+    .logo img{
+        width: 50px;
+    }
+    .headr__nav-menu{
+        max-width: 300px;
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+    .header__content{
+        padding-top: 10px;
+        padding-left: 0px;
+        flex-grow: 1;
+    }
+    h1{
+        font-size: 25px;
+    }
+    video{
+        width: 300px;
+    }
+    
+    .skills img{
+        position: static;
+        width: 300px;
+    }
+    .statistic{
+        margin: 0 auto;
+        width: 300px;
+    }
+    .service h3{
+        padding-bottom: 26px;
+        color: black;
+        font-size: 24px;
+    }
+    .navbar-toggler{
+        margin-top: 10px;
+    }
+    footer{
+        align-items: center;
+    }
+    .footer-links{
+        padding-top: 10px;
+    }
+    .contact-info-desc{
+        text-align: center;
+    }
+    map{
+        width: 300px; 
+    }
+    iframe{
+        
+        
+    }
+   
+}
+
